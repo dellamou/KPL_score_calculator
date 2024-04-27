@@ -1,0 +1,74 @@
+加赛队伍: ('rw', 'boa', 'lgd')
+比赛结果:
+ttg   vs. boa  	3:2
+vg    vs. lgd  	0:3
+rw    vs. es   	2:3
+积分榜:
+ttg        4          1          3          4         
+es         4          1          3          4         
+rw         2          3          0          2         
+boa        2          3          0          2         
+lgd        2          3          0          2         
+vg         1          4          -6         1         
+
+比赛结果:
+ttg   vs. boa  	3:1
+vg    vs. lgd  	1:3
+rw    vs. es   	1:3
+积分榜:
+ttg        4          1          4          4         
+es         4          1          4          4         
+rw         2          3          -1         2         
+boa        2          3          -1         2         
+lgd        2          3          -1         2         
+vg         1          4          -5         1         
+
+比赛结果:
+ttg   vs. boa  	3:0
+vg    vs. lgd  	2:3
+rw    vs. es   	0:3
+积分榜:
+ttg        4          1          5          4         
+es         4          1          5          4         
+rw         2          3          -2         2         
+boa        2          3          -2         2         
+lgd        2          3          -2         2         
+vg         1          4          -4         1         
+
+加赛队伍: ('rw', 'boa', 'vg')
+比赛结果:
+ttg   vs. boa  	3:2
+vg    vs. lgd  	3:0
+rw    vs. es   	2:3
+积分榜:
+ttg        4          1          3          4         
+es         4          1          3          4         
+rw         2          3          0          2         
+boa        2          3          0          2         
+vg         2          3          0          2         
+lgd        1          4          -6         1         
+
+比赛结果:
+ttg   vs. boa  	3:1
+vg    vs. lgd  	3:1
+rw    vs. es   	1:3
+积分榜:
+ttg        4          1          4          4         
+es         4          1          4          4         
+rw         2          3          -1         2         
+boa        2          3          -1         2         
+vg         2          3          -1         2         
+lgd        1          4          -5         1         
+
+比赛结果:
+ttg   vs. boa  	3:0
+vg    vs. lgd  	3:2
+rw    vs. es   	0:3
+积分榜:
+ttg        4          1          5          4         
+es         4          1          5          4         
+rw         2          3          -2         2         
+boa        2          3          -2         2         
+vg         2          3          -2         2         
+lgd        1          4          -4         1         
+
